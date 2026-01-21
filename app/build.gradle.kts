@@ -7,7 +7,7 @@ plugins {
 
 android {
     namespace = "com.eneko.flybookingapp"
-    compileSdk = 35
+    compileSdk = 36
 
     defaultConfig {
         applicationId = "com.eneko.flybookingapp"
