@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "280294026056",
+    "project_id": "flybookingapp",
+    "storage_bucket": "flybookingapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280294026056:android:87c39e7100d727c24ba17d",
+        "android_client_info": {
+          "package_name": "com.eneko.flybookingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn-iPiVvQLH_ggoBhfv_fkbzblTtKX9rc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
